@@ -7,7 +7,7 @@
   ],
   "description": "Richer transclusion for AngularJS",
   "dependencies": {
-    "angular": "1.2.16"
+    "angular": ">1.2.16"
   },
   "main": "src/multi-transclude.js",
   "keywords": [
